@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<!--
+< img align='right' src="https://github-readme-stats.vercel.app/api?username=ruyueshi&hide_border=true&show_icons=true&theme=dark">
+
+<!-- 
 **ruyueshi/ruyueshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+ -->
